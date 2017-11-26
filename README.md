@@ -1,2 +1,5 @@
 Rode o programa no terminal com usuário root By: Smith Hacker
-ativar_audio
+
+chmod +x ativar_audio.sh
+
+sudo ./ativar_audio.sh
